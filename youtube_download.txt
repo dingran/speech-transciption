@@ -1,0 +1,42 @@
+youtube-dl "https://www.youtube.com/watch?v=BKorP55Aqvg" \
+  --keep-video \
+  --extract-audio \
+  --audio-format flac \
+  --id \
+  --write-sub \
+  --sub-lang en-GB 
+
+
+youtube-dl "https://www.youtube.com/watch?v=BKorP55Aqvg" \
+  --keep-video \
+  --extract-audio \
+  --audio-quality 16K \
+  --audio-format wav \
+  --id \
+  --write-sub \
+  --sub-lang en-GB 
+  
+youtube-dl "https://www.youtube.com/watch?v=7W_qrc-TkR8" \
+  --keep-video \
+  --extract-audio \
+  --audio-quality 16K \
+  --audio-format wav \
+  --id \
+  --write-auto-sub \
+  --sub-lang en-US
+  
+youtube-dl "https://www.youtube.com/watch?v=HTgYHHKs0Zw" \
+  --keep-video \
+  --extract-audio \
+  --audio-quality 16K \
+  --audio-format wav \
+  --id \
+  --write-sub
+
+youtube-dl "https://www.youtube.com/watch?v=PdUKP4fFiBY" \
+  --keep-video \
+  --extract-audio \
+  --audio-quality 16K \
+  --audio-format wav \
+  --id \
+  --write-sub

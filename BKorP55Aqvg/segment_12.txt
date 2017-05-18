@@ -1,0 +1,1 @@
+ What if we draw them with blue ink? It still won't work. If you use blue ink, you will get blue lines.
